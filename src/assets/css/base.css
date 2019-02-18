@@ -87,13 +87,14 @@ iframe {
 ================================================== */
 body {
     background-image: url("https://s3.us-east-2.amazonaws.com/daniel-choe.com/background.jpg");
+    background-position: bottom;
     background-repeat: no-repeat;
     font: 14px/22px "Source Sans Pro", "Helvetica", "Arial", sans-serif;
     color: #999999;
     -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
     -webkit-text-size-adjust: 100%;
     margin: 0;
-
+    background-color: #EDEDED;
 
 }
 
