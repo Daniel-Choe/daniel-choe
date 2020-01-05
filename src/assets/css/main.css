@@ -558,6 +558,12 @@ img.signature {
     font-weight: 400;
 }
 
+.timeline .timeline-inner .name h6 {
+    margin-bottom: 0;
+    font-size: 9px;
+    font-weight: 400;
+}
+
 .timeline .timeline-inner .name span.date {
     color: #999999;
     font-size: 13.5px;
